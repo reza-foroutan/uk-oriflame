@@ -1,0 +1,8 @@
+:root {
+  --color-neutral-000: #fff;
+  --font-family: SansOri, SansOriFallback, sans-serif;
+  --window-inner-height: 403px;
+  --top-nav-height: 98px;
+  --top-nav-inner-height: 64px;
+  --top-nav-height-animation: 0.3s ease-in-out;
+}
